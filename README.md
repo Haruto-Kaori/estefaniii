@@ -1,6 +1,11 @@
 
-### 🌺 Hi, I'm Estefani!
+<p align="left">
+  <a href="https://estefani-portfolio.netlify.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Frontend+Alchemist;Designer+%26+Developer;Pixel+Perfectionist" alt="Animated header" />
+  </a>
+</p>
 
+### 🌺 Hi, I'm Estefani!
 **Frontend Developer** with a designer's eye. I specialize in:
 
 <img align="left" alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
