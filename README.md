@@ -1,13 +1,3 @@
-<p align="left">
-   <a href="https://www.linkedin.com/in/est%C3%A9fani-torres-69a6432a1/">
-      <img alt="LinkedIn" title="Let's connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://estefani-portfolio.netlify.app/english.html#home">
-      <img alt="Portfolio" title="View my work" src="https://img.shields.io/badge/🎨_Portfolio-FF4785?style=for-the-badge&logo=react&logoColor=white"/></a>
-   <a href="https://paypal.me/estefanniii?country.x=PA&locale.x=es_XC">
-      <img alt="PayPal" title="Support my work" src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-</p>
-
----
 
 ### 🌺 Hi, I'm Estefani!
 
