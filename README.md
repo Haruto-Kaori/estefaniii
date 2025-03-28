@@ -16,7 +16,7 @@
 
 <br/>
 
-I build intuitive, visually appealing web interfaces. With additional background in graphic design and digital marketing, I create cohesive digital experiences that strengthen brand identity - not just functional code.
+I build intuitive, visually appealing web interfaces. With additional background in graphic design and digital marketing, I create cohesive digital experiences that strengthen brand identity.
 
 ---
 
@@ -25,6 +25,10 @@ I build intuitive, visually appealing web interfaces. With additional background
 [![View Portfolio](https://img.shields.io/badge/🔍_View_Portfolio-FF6B6B?style=for-the-badge)](https://estefani-portfolio.netlify.app/english.html#home)
 
 Explore projects where I combine frontend development with design principles to create effective digital solutions.
+
+---
+
+![estefaniii's Github stats](https://github-readme-stats.vercel.app/api?username=estefaniii&show_icons=true&theme=dracula)
 
 ---
 
